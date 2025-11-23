@@ -171,4 +171,4 @@ src/sample/Contracts/
 
 ## 👨‍💻 Developer
 **Ramazan Dev**  
-JavaFX & Desktop Applications Developer
+Software Developer
