@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.idea\\artifacts",
+    "\\.idea\\libraries",
+    "\\out",
+    "\\out\\production",
+    "\\out\\production\\ContractApp",
+    "\\out\\production\\ContractApp\\sample",
+    "\\src"
+  ],
+  "SelectedNode": "\\out\\production\\ContractApp\\sample\\Contract.class",
+  "PreviewInSolutionExplorer": false
+}
